@@ -148,17 +148,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
 </p>
-
----
-
-## 📈 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haze10-stack/haze10-stack/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> **Note**: To enable the snake animation, you'll need to set up [this GitHub Action](https://github.com/Platane/snk) in your profile repository.
-
 ---
 
 <p align="center">
