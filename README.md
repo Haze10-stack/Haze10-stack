@@ -142,7 +142,7 @@
 - 🎮 Balance coding with gaming, music, and photography!
 
 ---
-## <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/083d42fd-2454-4dc4-97a1-0809ec446f1b" />Holopin Badges
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/083d42fd-2454-4dc4-97a1-0809ec446f1b" />Holopin Badges
 [![An image of @haze10stack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/haze10stack)](https://holopin.io/@haze10stack)
 
 ---
