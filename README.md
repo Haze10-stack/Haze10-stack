@@ -142,7 +142,7 @@
 - 🎮 Balance coding with gaming, music, and photography!
 
 ---
-##🎯Holopin Badges
+## 🎯 Holopin Badges
 [![An image of @haze10stack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/haze10stack)](https://holopin.io/@haze10stack)
 
 ---
